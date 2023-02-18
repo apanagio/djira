@@ -1,5 +1,5 @@
 # djira
-Simple workflow platform based on django
+Simple workflow platform based on [django](https://www.djangoproject.com/)
 
 #Goals
 - Create an easy to use workflow platform
